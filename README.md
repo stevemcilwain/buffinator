@@ -1,7 +1,7 @@
 # buffinator
 Stack based, remote buffer overflow python script template.
 
-'''
+```
     ____        _________             __            
    / __ )__  __/ __/ __(_)___  ____ _/ /_____  _____
   / __  / / / / /_/ /_/ / __ \/ __ `/ __/ __ \/ ___/
@@ -10,7 +10,7 @@ Stack based, remote buffer overflow python script template.
 
 	Author :Steve Mcilwain
 	GitHub : https://github.com/stevemcilwain
-'''
+```
 
 ## Purpose
 I created this script to help me study for the OSCP exam and write remote, stack buffer overflows from scratch.  
